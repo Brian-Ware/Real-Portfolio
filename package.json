@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/Brian-Ware/Real-Portfolio.git"
   },
-  "author": "",
+  "author": "Brian Ware",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Brian-Ware/Real-Portfolio/issues"
@@ -20,5 +20,10 @@
   "homepage": "https://github.com/Brian-Ware/Real-Portfolio#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }
