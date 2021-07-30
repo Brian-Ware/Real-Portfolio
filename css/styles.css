@@ -1,5 +1,8 @@
 body {
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Open Sans", sans-serif;
+  background-image: url("../img/greek-vase.png") ;
+
+}
 
 h1, h2, h3 {
   font-family: "Lobster", cursive; }
@@ -16,7 +19,7 @@ header h2 {
 .jumbotron {
   margin: 0;
   padding: 30px;
-  background-image: linear-gradient(to right, #5637dd, #3046C5, #60106b);
+  background-image: linear-gradient(to right, #0e3d31, #0e3d31, #0e3d31);
   color: white; }
 
 .row-content {
@@ -25,7 +28,7 @@ header h2 {
   min-height: 200px; }
 
 .navbar {
-  background-color: #901CAD; }
+  background-color: #0e3d31; }
 
 .tab-content {
   border: 1px solid #DDD;
