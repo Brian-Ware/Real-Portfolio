@@ -8,10 +8,14 @@ h1, h2, h3 {
   font-family: "Lobster", cursive; }
 
 h2 {
-  color: #3046C5; }
+  color: #25816a; }
 
 header h2 {
   color: #CEC8FF; }
+
+  h3{
+    color: #25816a;
+  }
 
 .site-footer {
   background-image: linear-gradient(#CEC8FF, white); }
